@@ -1,17 +1,4 @@
-# Computer Science 360 – Introduction to Operating Systems
-# Summer 2022
-
-## Assignment # 4
-
-Due: Tuesday, August 2nd, 11:55 pm by submission to gitlab.csc.uvic.ca (no late submissions accepted)
-
-## Programming platform
-
-As with the previous  assignments, you must ensure your submission works on jhub.csc.uvic.ca.  You can access this environment through a web browser anywhere on campus or from home. You may already have access to your own Unix system (e.g., Linux, macOS) yet we recommend you work in jhub.csc.uvic.ca rather than try to complete the assignment on your machine.  Bugs in systems programming tend to be platform-specific, and something that works perfectly at home may end up crashing on a different hardware configuration. Your code will be evaluated on jhub.csc.uvic.ca, therefore you must ensure any work done on personal laptops or desktops also works correctly on that server.
-
-## Individual work
-
-This assignment is to be completed by each individual student (i.e., no group work). Naturally you will want to discuss aspects of the problem with fellow students, and such discussion is encouraged. However, sharing of code is strictly forbidden. If you are still unsure about what is permitted or have other questions regarding academic integrity, please direct them as soon as possible to the instructor. (Code-similarity tools will be run on submitted work.)
+# Assignment 4
 
 ## Goal of this assignment
 
@@ -149,22 +136,4 @@ $ # no output from diff -- that’s good as it means the files are identical
 
 Note the file name of the source file (on the host system) need not be matched by the file name as it is stored in the disk image.
 
-## What you are to submit:
-
-You must push your repo to gitlab.csc.uvic.ca by the due date.  Only stat360fs.c, ls360fs.c, cat360fs.c and stor360fs.c will be graded.
-
-## Evaluation:
-
-Our grading scheme is relatively simple.
-
-- “A+” grade: An exceptional submission demonstrating creativity and initiative. All four tasks have been completed and the code runs without any problems.
-
-- “A-”, “A” grade: All four tasks have been completed and the code runs without any problems.
-
-- “B-“, “B”, “B+” grade: The first three tasks have been completed (i.e., everything except for stor360fs) and the code runs without any problems. 
-
-- “C”, “C+” grade: The first three tasks have been completed (i.e., everything except for stor360fs) and the code runs with some significant problems. 
-
-- “D” grade: A serious attempt at completing the first three tasks for the assignment. The code runs with serious problems.
-
-- “F” grade: Either no submission is given, or the submission represents very little work.
+&copy; 2022 David Clark, Mike Zastre
