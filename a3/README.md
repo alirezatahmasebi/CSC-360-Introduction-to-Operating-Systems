@@ -1,54 +1,5 @@
 # Assignment 3
 
-## UVic CSC360 Summer 2022
-
-**Due Tuesday July 12, at 11:55 pm** via `push` to your `gitlab.csc`
- repository.
-
-## Programming Platform
-
-For this assignment your code must work in the Jupyterlab environment
-provisioned for you at `https://jhub.csc.uvic.ca/`.  You may already
-have access to your own Unix system (e.g., Ubuntu, Debian, Cygwin on
-Windows 10, macOS with MacPorts, etc.) yet we recommend you work as
-much as possible with your CSC360 jupyterlab environment. Bugs in
-systems programming tend to be platform-specific and something that
-works perfectly at home may end up crashing on a different
-computer-language library configuration. (We cannot give marks for
-submissions of which it is said “It worked on Visual Studio!”)
-
-## Individual work
-
-This assignment is to be completed by each individual student (i.e.,
-no group work).  Naturally you will want to discuss aspects of the
-problem with fellow students, and such discussions are encouraged.
-However, **sharing of code is strictly forbidden**. If you are still
-unsure about what is permitted or have other questions regarding
-academic integrity, please direct them as soon as possible to the
-instructor. (Code-similarity tools will be run on submitted programs.)
-Any fragments of code found on the web and used in your solution must
-be properly cited where it is used (i.e., citation in the form of a
-comment given source of code).
-
-## Use of `gitlab.csc.uvic.ca`
-
-Each student enrolled in the course has been assigned a Git repository
-at `gitlab.csc.uvic.ca`. For example, the student having Netlink ID
-`johnwick` would have their CSC 360 repository at this location: 
-```
-https://gitlab.csc.uvic.ca/courses/2022051/CSC360_COSI/assignments/johnwick/coursework
-```
-
-Please form the address of your repository appropriately **and if you
-have not already done so**  perform a `git clone` in your jupyterlab
-environment. You are also able to access this repository by going to
-`https://gitlab.csc.uvic.ca` (and use your Netlink username and
-password to log in at that page). **If you have already used `clone` to
-obtain your repository** the use `git pull` to retrieve files for this
-assignment.
-
----
-
 ## Goals of this assignment
 
 Write a c program (mlfq.c) implementing a simulation of round-robin CPU scheduling
