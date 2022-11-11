@@ -130,6 +130,4 @@ this assignment we will ignore this problem. Put differently, your solutions are
 this is what we see in your solution, we will suspect some hanky-panky in your
 code, which might even result in a failing grade for A#2.)
 
----
-
 &copy; 2022 David Clark, Mike Zastre
