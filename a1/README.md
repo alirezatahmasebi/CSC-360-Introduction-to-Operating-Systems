@@ -1,54 +1,5 @@
 # Assignment 1
 
-## UVic CSC360 Summer 2022
-
-** Due Monday June 6 at 11:55 pm** via `push` to your `gitlab.csc`
- repository.
-
-## Programming Platform
-
-For this assignment your code must work in the Jupyterlab environment
-provisioned for you at `https://jhub.csc.uvic.ca/`.  You may already
-have access to your own Unix system (e.g., Ubuntu, Debian, Cygwin on
-Windows 10, macOS with MacPorts, etc.) yet we recommend you work as
-much as possible with your CSC360 jupyterlab environment. Bugs in
-systems programming tend to be platform-specific and something that
-works perfectly at home may end up crashing on a different
-computer-language library configuration. (We cannot give marks for
-submissions of which it is said “It worked on Visual Studio!”)
-
-## Individual work
-
-This assignment is to be completed by each individual student (i.e.,
-no group work).  Naturally you will want to discuss aspects of the
-problem with fellow students, and such discussions are encouraged.
-However, **sharing of code is strictly forbidden**. If you are still
-unsure about what is permitted or have other questions regarding
-academic integrity, please direct them as soon as possible to the
-instructor. (Code-similarity tools will be run on submitted programs.)
-Any fragments of code found on the web and used in your solution must
-be properly cited where it is used (i.e., citation in the form of a
-comment given source of code).
-
-## Use of `gitlab.csc.uvic.ca`
-
-Each student enrolled in the course has been assigned a Git repository
-at `gitlab.csc.uvic.ca`. For example, the student having Netlink ID
-`johnwick` would have their CSC 360 repository at this location: 
-```
-https://gitlab.csc.uvic.ca/courses/2022051/CSC360_COSI/assignments/johnwick/coursework
-```
-
-Please form the address of your repository appropriately **and if you
-have not already done so**  perform a `git clone` in your jupyterlab
-environment. You are also able to access this repository by going to
-`https://gitlab.csc.uvic.ca` (and use your Netlink username and
-password to log in at that page). **If you have already used `clone` to
-obtain your repository** the use `git pull` to retrieve files for this
-assignment.
-
----
-
 ## Goals of this assignment
 
 1. Write a program (`getstats.c`) that prints out interesting statistics
@@ -307,50 +258,6 @@ shown above.
   `gcc -Wall -Werror -std=c18 -o gopipe gopipe.c`  If it cannot be
   compiled due to syntax errors or warnings, it may receiving a
   failing grade.
-
-
-## Submitting your work
-
-You must push changes to your files back to the `a1` directory of your
-COURSEWORK repository by the due date.  Only the files `getstats.c` and
-`gopipe.c` will be marked; any other files in this directory will be
-disregarded.  Your work MUST be on gitlab.csc to be marked – commit
-and push your code often, and double-check that your submission is
-successful by checking `https://gitlab.csc.uvic.ca/`.
-
-Any code submitted which has been taken from the web or from textbooks must be properly cited – where used – in a code comment.
-
----
-
-## Evaluation
-
-**Note: Up to five students may each be asked to demonstrate their work to
-the teaching team before their final assignment evaluation is provided
-to them.**
-
-* `A` grade: An exceptional submission demonstrating creativity 
-  and initiative, with a solution that is clearly structured. Both
-  `getstats.c` and `gopipe.c` run without any problems.
-
-* `B` grade: A submission completing the requirements of the
-  assignment. Both `getstats.c` and `gopipe.c` run without any
-  problems.
-
-* `C` grade: A submission completing most of the requirements of the
-  assignment. Either `getstats.c` or `gopipe.c` (or both) run with
-  some problems.
-
-* `D` grade: A serious attempt at completing requirements for the
-  assignment. The two program run with quite a few problems.
-
-* `F` grade: Either no submission given, or submission represents very
-  little work.
-
-**Software-similarity tools with be used this semester to detect
-plagiarism and inappropriately-shared code.**  As noted above in this
-document, if you use code fragments that were originally found on the
-web, you must properly cite that usage with a comment that contains
-the URL.
 
 ---
 
