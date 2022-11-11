@@ -259,6 +259,4 @@ shown above.
   compiled due to syntax errors or warnings, it may receiving a
   failing grade.
 
----
-
 &copy; 2022 David Clark, Mike Zastre
