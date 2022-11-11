@@ -143,46 +143,6 @@ To help guide your development of a solution to this assignment, there are many 
 
 ---
 
-## Submitting your work
-
-You must push changes to your files back to the `a3` directory of your
-COURSEWORK repository by the due date.  Only the file `mlfq.c` will be marked;
-any other files in this directory will be disregarded (but please recall the
-comment above regarding refactoring and the requirement of receiving written
-permission for this.)  Your work MUST be on `gitlab.csc` to be marked – commit
-and push your code often, and double-check that your submission is successful by
-checking `https://gitlab.csc.uvic.ca/`.
-
-Any code submitted which has been taken from the web or from textbooks must be
-properly cited – where used – in a code comment.
-
----
-
-## Evaluation
-
-**Note: Up to five students may each be asked to demonstrate their work to
-the teaching team before their final assignment evaluation is provided
-to them.**
-
-- “A” grade: An exceptional submission demonstrating creativity and initiative. The mlfq program runs without any problems, 
-and is organized and commented to a professional grade.
-- “B” grade: A submission completing the requirements of the assignment. The mlfq program runs without any problems.
-- “C” grade: A submission completing most of the requirements of the assignment. The mlfq program runs with some problems.
-- “D” grade: A serious attempt at completing requirements for the assignment. The mlfq program runs with serious problems.
-- “F” grade: Either no submission is given, or the submission represents very little work.
-
-
-**Software-similarity tools with be used this semester to detect
-plagiarism and inappropriately-shared code.**  As noted above in this
-document, if you use code fragments that were originally found on the
-web, you must properly cite that usage with a comment that contains
-the URL.
-
----
-
-&copy; 2022 David Clark, Mike Zastre
-
-
 **Content of cases/test1.txt**
 
 ```
